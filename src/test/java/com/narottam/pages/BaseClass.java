@@ -16,7 +16,7 @@ public WebDriver driver;
 	public void setup()
 	{
 		try {
-			driver=BrowserFactory.startApplication(driver, "chrome", "https://www.freecrm.com");
+			driver=BrowserFactory.startApplication(driver, "remote", "https://www.freecrm.com");
 		} catch (MalformedURLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
