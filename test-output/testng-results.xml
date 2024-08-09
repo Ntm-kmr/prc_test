@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-04T18:25:11 IST" name="Suite" finished-at="2024-08-04T18:25:29 IST" duration-ms="17867">
+    <groups>
+    </groups>
+    <test started-at="2024-08-04T18:25:11 IST" name="Test" finished-at="2024-08-04T18:25:29 IST" duration-ms="17867">
+      <class name="com.narottam.testcases.Freecrm">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.narottam.testcases.Freecrm@3023df74]" started-at="2024-08-04T18:25:11 IST" name="setup" finished-at="2024-08-04T18:25:24 IST" duration-ms="13145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginapp()[pri:0, instance:com.narottam.testcases.Freecrm@3023df74]" started-at="2024-08-04T18:25:24 IST" name="loginapp" finished-at="2024-08-04T18:25:29 IST" duration-ms="4507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginapp -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.narottam.testcases.Freecrm@3023df74]" started-at="2024-08-04T18:25:29 IST" name="teardown" finished-at="2024-08-04T18:25:29 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.narottam.testcases.Freecrm -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
